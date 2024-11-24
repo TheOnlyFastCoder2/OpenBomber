@@ -1,10 +1,10 @@
-import IMGBomb from '../../../../assets/imgs/boost/BOMB.png';
-import IMGRadius from '../../../../assets/imgs/boost/RADIUS.png';
-import IMGSpeed from '../../../../assets/imgs/boost/SPEEDUP.png';
-import IMGShield from '../../../../assets/imgs/boost/SHIELD.png';
-import IMGStrayBomb from '../../../../assets/imgs/boost/STRAYBOMB.png';
-import IMGSlowingDown from '../../../../assets/imgs/boost/SLOWINGDOWN.png';
-import IMGKickingBombs from '../../../../assets/imgs/boost/KICKINGBOMBS.png';
+import IMGBomb from 'assets/imgs/boost/BOMB.png';
+import IMGRadius from 'assets/imgs/boost/RADIUS.png';
+import IMGSpeed from 'assets/imgs/boost/SPEEDUP.png';
+import IMGShield from 'assets/imgs/boost/SHIELD.png';
+import IMGStrayBomb from 'assets/imgs/boost/STRAYBOMB.png';
+import IMGSlowingDown from 'assets/imgs/boost/SLOWINGDOWN.png';
+import IMGKickingBombs from 'assets/imgs/boost/KICKINGBOMBS.png';
 
 export default [
   {
